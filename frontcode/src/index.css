@@ -1,0 +1,8 @@
+/* @tailwind base;
+@tailwind components;
+@tailwind utilities; */
+
+container-fluid {
+    display: flex;
+    font-size: xx-large;
+}
